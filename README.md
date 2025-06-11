@@ -19,7 +19,7 @@ This is a Next.js dashboard application that interacts with the JSONPlaceholder 
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/NadineeBenArbia/test_tech.git
 ```
 
 Install dependencies

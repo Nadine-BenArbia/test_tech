@@ -31,7 +31,7 @@ Install dependencies
 Start the server
 
 ```bash
-  pnpm run start
+  pnpm run dev
 ```
 
 
